@@ -4,4 +4,4 @@ This is an example of cryptography encryption and decryption technique. The scri
 for example if you have entered the text "mayank"
 then your key should be m&6&m.
 
-Note: If your friend and you have downloaded this script then you can encrypt or decrypt your messages.
+If your friend and you have downloaded this script then you can encrypt or decrypt your messages.
