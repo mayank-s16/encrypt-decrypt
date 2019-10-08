@@ -1,3 +1,4 @@
+//changes
 s=input("Enter the text you want to encrypt or decrypt: ")
 key="m&"+str(len(s)%10)+"&m"
 ukey=input("Enter the key: ")
